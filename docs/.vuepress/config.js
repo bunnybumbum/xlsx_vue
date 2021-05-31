@@ -4,7 +4,7 @@ module.exports = {
   title: 'Vue-XLSX',
   description: 'XLSX made friendly by Vue',
   themeConfig: {
-    repo: 'DonNicoJs/vue-xlsx',
+    repo: 'bunnybumbum/xlsx_vue.git',
     docsDir: 'docs',
     editLinks: true,
     editLinkText: 'Help us improve this page!',

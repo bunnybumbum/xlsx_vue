@@ -3,9 +3,9 @@
   "version": "0.2.1",
   "private": false,
   "author": {
-    "name": "Nicolo Maria Mezzopera",
-    "email": "nicolo.mezzopera@gmail.com",
-    "url": "donnico.dev"
+    "name": "Bunnyyellow",
+    "email": "bunnyyellow1209@gmail.com",
+    "url": "bunnyyellow.dev"
   },
   "homepage": "https://vue-xlsx.netlify.com/",
   "scripts": {
@@ -88,6 +88,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/DonNicoJs/vue-xlsx.git"
+    "url": "git://github.com/bunnybumbum/xlsx_vue.git"
   }
 }
